@@ -1,4 +1,4 @@
-# Farm project
+# Project Farm
 __Request__: make a C program named _farm_ that implements the communication scheme between processes and threads shown below. 
 
 ![farm](https://user-images.githubusercontent.com/89905733/197409107-9e1dc194-35f8-4a9f-a1ef-dad46cf9ff55.png)
